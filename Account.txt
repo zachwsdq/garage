@@ -1,0 +1,7 @@
+Admin Demo: Admin Login
+Username: admin@campcodes.com
+Password: 12345678
+
+user Demo: User Login
+Username: zsustiguer11@gmail.com
+Password: admin123
